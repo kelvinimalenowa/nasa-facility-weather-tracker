@@ -8,6 +8,10 @@ This application retrieves NASA facility data and displays information for appro
 
 The project uses NASA's API to retrieve each facility's name, location, latitude, and longitude. The coordinates returned from NASA are then used to make a second API request to retrieve the current weather conditions at each facility.
 
+## Project Link
+
+![Nasa Facility Weather Tracker](https://kelvinimalenowa.github.io/nasa-facility-weather-tracker/)
+
 ## Screenshot
 
 ![Project Screenshot](assets/mockup.png)
