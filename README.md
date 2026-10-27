@@ -10,7 +10,7 @@ The project uses NASA's API to retrieve each facility's name, location, latitude
 
 ## Project Link
 
-![Nasa Facility Weather Tracker](https://kelvinimalenowa.github.io/nasa-facility-weather-tracker/)
+[Nasa Facility Weather Tracker](https://kelvinimalenowa.github.io/nasa-facility-weather-tracker/)
 
 ## Screenshot
 
